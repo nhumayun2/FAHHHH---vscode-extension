@@ -29,7 +29,7 @@ Since this masterpiece isn't on the official VS Code Marketplace just yet, you c
 ## ✨ Features
 
 * **Instant Emotional Damage:** Hooks directly into VS Code's native error diagnostics. The moment an `Error` severity is detected, you hear about it.
-* **Anti-Spam Cooldown:** Features a built-in 2-second audio cooldown. This ensures your computer speakers don't explode if you paste a massive block of broken code all at once.
+* **Anti-Spam Cooldown:** Features a built-in 5-second audio cooldown. This ensures your computer speakers don't explode if you paste a massive block of broken code all at once.
 * **Native Windows Support:** Uses the lightweight `sound-play` package so the audio triggers flawlessly in the background.
 
 ## 🛠️ Build It Yourself
